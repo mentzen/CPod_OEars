@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "openEars"
   s.version      = "0.0.1"
-  s.summary      = "description"
+  s.summary      = "summary"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
 description
                    DESC
-  s.homepage = "http://null.com"
+  s.homepage = "http://github.com"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -38,8 +38,8 @@ description
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "Politepix"
-  # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  #s.license      = "Politepix"
+  s.license      = { :type => "Politepix", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
