@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => "Politepix", :file => "LICENSE" }
   s.author       = "Alexander Mentzen"
 
-  s.source       = { :git => "https://github.com/mentzen/CPod_OEars.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/mentzen/CPod_OEars.git", :tag => "master" }
 
   s.source_files = "OpenEars.framework/**/*.h"  
 end
