@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name         = "openEars"
+  s.name         = "openEars1"
   s.version      = "0.0.1"
   s.summary      = "summary"
   s.description  = "description"
