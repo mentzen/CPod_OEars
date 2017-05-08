@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "openEars1"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.summary      = "summary"
   s.description  = "description"
   s.homepage     = "http://github.com"
@@ -10,5 +10,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/mentzen/CPod_OEars.git", :tag => "#{s.version}" }
 
-  s.source_files = "OpenEars.framework/**/*.h"  
+  s.source_files = "OpenEars.framework/Versions/A/Headers/*.h"  
+  s.source_files = "OpenEars.framework/**/*.h" 
+ 
 end
