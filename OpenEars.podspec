@@ -12,4 +12,6 @@ Pod::Spec.new do |s|
 
   s.source_files = "OpenEars/Classes/**/*.{h,a}"
  
+  s.dependency 'Sphinxbase-CocoaPod', '>=0.1' 
+
 end
