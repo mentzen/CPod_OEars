@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "OpenEars"
-  s.version      = "0.0.9"
+  s.version      = "0.0.10"
   s.summary      = "summary"
   s.description  = "description"
   s.homepage     = "http://github.com"
