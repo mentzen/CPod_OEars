@@ -45,12 +45,12 @@
 #define __POCKETSPHINX_INTERNAL_H__
 
 /* SphinxBase headers. */
-#include <sphinxbase/cmd_ln.h>
-#include <sphinxbase/fe.h>
-#include <sphinxbase/feat.h>
-#include <sphinxbase/hash_table.h>
-#include <sphinxbase/logmath.h>
-#include <sphinxbase/profile.h>
+#include <Sphinxbase-CocoaPod/cmd_ln.h>
+#include <Sphinxbase-CocoaPod/fe.h>
+#include <Sphinxbase-CocoaPod/feat.h>
+#include <Sphinxbase-CocoaPod/hash_table.h>
+#include <Sphinxbase-CocoaPod/logmath.h>
+#include <Sphinxbase-CocoaPod/profile.h>
 
 /* Local headers. */
 #include "pocketsphinx.h"

@@ -72,8 +72,8 @@
 extern "C" {
 #endif
 
-#include <sphinxbase/fsg_model.h>
-#include <sphinxbase/ngram_model.h>
+#include <Sphinxbase-CocoaPod/fsg_model.h>
+#include <Sphinxbase-CocoaPod/ngram_model.h>
 
 /**
  * PocketSphinx search iterator.

@@ -42,10 +42,10 @@
 
 
 /* SphinxBase headers. */
-#include <sphinxbase/glist.h>
-#include <sphinxbase/cmd_ln.h>
-#include <sphinxbase/ngram_model.h>
-#include <sphinxbase/bitvec.h>
+#include <Sphinxbase-CocoaPod/glist.h>
+#include <Sphinxbase-CocoaPod/cmd_ln.h>
+#include <Sphinxbase-CocoaPod/ngram_model.h>
+#include <Sphinxbase-CocoaPod/bitvec.h>
 
 /* Local headers. */
 #include "pocketsphinx_internal.h"

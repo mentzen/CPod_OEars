@@ -44,7 +44,7 @@
 
 /* SphinxBase headers. */
 #include <stdio.h>
-#include <sphinxbase/prim_type.h>
+#include <Sphinxbase-CocoaPod/prim_type.h>
 
 /* Local headers. */
 #include "pocketsphinx_internal.h"

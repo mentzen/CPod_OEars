@@ -42,8 +42,8 @@
 #include <stdio.h>
 
 /* SphinxBase headers. */
-#include <sphinxbase/logmath.h>
-#include <sphinxbase/bitvec.h>
+#include <Sphinxbase-CocoaPod/logmath.h>
+#include <Sphinxbase-CocoaPod/bitvec.h>
 
 /* Local headers. */
 #include "s3types.h"

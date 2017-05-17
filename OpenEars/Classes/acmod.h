@@ -47,13 +47,13 @@
 #include <stdio.h>
 
 /* SphinxBase headers. */
-#include <sphinxbase/cmd_ln.h>
-#include <sphinxbase/logmath.h>
-#include <sphinxbase/fe.h>
-#include <sphinxbase/feat.h>
-#include <sphinxbase/bitvec.h>
-#include <sphinxbase/err.h>
-#include <sphinxbase/prim_type.h>
+#include <Sphinxbase-CocoaPod/cmd_ln.h>
+#include <Sphinxbase-CocoaPod/logmath.h>
+#include <Sphinxbase-CocoaPod/fe.h>
+#include <Sphinxbase-CocoaPod/feat.h>
+#include <Sphinxbase-CocoaPod/bitvec.h>
+#include <Sphinxbase-CocoaPod/err.h>
+#include <Sphinxbase-CocoaPod/prim_type.h>
 
 /* Local headers. */
 #include "ps_mllr.h"

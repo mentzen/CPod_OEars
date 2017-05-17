@@ -43,8 +43,8 @@
 #ifndef __TIED_MGAU_COMMON_H__
 #define __TIED_MGAU_COMMON_H__
 
-#include <sphinxbase/logmath.h>
-#include <sphinxbase/fixpoint.h>
+#include <Sphinxbase-CocoaPod/logmath.h>
+#include <Sphinxbase-CocoaPod/fixpoint.h>
 
 #define MGAU_MIXW_VERSION	"1.0"   /* Sphinx-3 file format version for mixw */
 #define MGAU_PARAM_VERSION	"1.0"   /* Sphinx-3 file format version for mean/var */

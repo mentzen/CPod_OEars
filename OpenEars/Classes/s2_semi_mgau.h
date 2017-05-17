@@ -43,9 +43,9 @@
 #define __S2_SEMI_MGAU_H__
 
 /* SphinxBase headesr. */
-#include <sphinxbase/fe.h>
-#include <sphinxbase/logmath.h>
-#include <sphinxbase/mmio.h>
+#include <Sphinxbase-CocoaPod/fe.h>
+#include <Sphinxbase-CocoaPod/logmath.h>
+#include <Sphinxbase-CocoaPod/mmio.h>
 
 /* Local headers. */
 #include "acmod.h"

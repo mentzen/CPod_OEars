@@ -50,8 +50,8 @@ extern "C" {
 #endif /* __cplusplus */
 
 /* SphinxBase headers. */
-#include <sphinxbase/mmio.h>
-#include <sphinxbase/cmd_ln.h>
+#include <Sphinxbase-CocoaPod/mmio.h>
+#include <Sphinxbase-CocoaPod/cmd_ln.h>
 #include <pocketsphinx_export.h>
 
 #include "mdef.h"
