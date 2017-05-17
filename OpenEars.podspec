@@ -12,6 +12,8 @@ Pod::Spec.new do |s|
 
   s.source_files = "OpenEars/Classes/**/*.{h,a}"
  
+  s.ios.deployment_target = '8.0'
+
   s.dependency 'Sphinxbase-CocoaPod', '>=0.1' 
 
 end
